@@ -1,0 +1,269 @@
+{
+  "airportCountryInfos": [
+    {
+      "code": "YBG",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YQM",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "CUN",
+      "countryCode": "MX",
+      "countryChineaseName": "墨西哥"
+    },
+    {
+      "code": "PUJ",
+      "countryCode": "DO",
+      "countryChineaseName": "多米尼加"
+    },
+    {
+      "code": "VRA",
+      "countryCode": "CU",
+      "countryChineaseName": "古巴"
+    },
+    {
+      "code": "YXU",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YKF",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "MZT",
+      "countryCode": "MX",
+      "countryChineaseName": "墨西哥"
+    },
+    {
+      "code": "YLW",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "HOG",
+      "countryCode": "CU",
+      "countryChineaseName": "古巴"
+    },
+    {
+      "code": "CCC",
+      "countryCode": "CU",
+      "countryChineaseName": "古巴"
+    },
+    {
+      "code": "YHM",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "MLB",
+      "countryCode": "US",
+      "countryChineaseName": "美国"
+    },
+    {
+      "code": "MBJ",
+      "countryCode": "JM",
+      "countryChineaseName": "牙买加"
+    },
+    {
+      "code": "POP",
+      "countryCode": "DO",
+      "countryChineaseName": "多米尼加"
+    },
+    {
+      "code": "SNU",
+      "countryCode": "CU",
+      "countryChineaseName": "古巴"
+    },
+    {
+      "code": "CYO",
+      "countryCode": "CU",
+      "countryChineaseName": "古巴"
+    },
+    {
+      "code": "YHZ",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YQX",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "PVR",
+      "countryCode": "MX",
+      "countryChineaseName": "墨西哥"
+    },
+    {
+      "code": "SJD",
+      "countryCode": "MX",
+      "countryChineaseName": "墨西哥"
+    },
+    {
+      "code": "YWG",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YQG",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YVR",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "MCO",
+      "countryCode": "US",
+      "countryChineaseName": "美国"
+    },
+    {
+      "code": "MIA",
+      "countryCode": "US",
+      "countryChineaseName": "美国"
+    },
+    {
+      "code": "SXM",
+      "countryCode": "SX",
+      "countryChineaseName": "圣马丁(荷属)"
+    },
+    {
+      "code": "UVF",
+      "countryCode": "LC",
+      "countryChineaseName": "圣卢西亚"
+    },
+    {
+      "code": "RIH",
+      "countryCode": "PA",
+      "countryChineaseName": "巴拿马"
+    },
+    {
+      "code": "ACA",
+      "countryCode": "MX",
+      "countryChineaseName": "墨西哥"
+    },
+    {
+      "code": "RTB",
+      "countryCode": "HN",
+      "countryChineaseName": "洪都拉斯"
+    },
+    {
+      "code": "GND",
+      "countryCode": "GD",
+      "countryChineaseName": "格林纳达"
+    },
+    {
+      "code": "MZO",
+      "countryCode": "CU",
+      "countryChineaseName": "古巴"
+    },
+    {
+      "code": "LIR",
+      "countryCode": "CR",
+      "countryChineaseName": "哥斯达黎加"
+    },
+    {
+      "code": "FPO",
+      "countryCode": "BS",
+      "countryChineaseName": "巴哈马"
+    },
+    {
+      "code": "AUA",
+      "countryCode": "AW",
+      "countryChineaseName": "阿鲁巴"
+    },
+    {
+      "code": "ANU",
+      "countryCode": "AG",
+      "countryChineaseName": "安提瓜和巴布达"
+    },
+    {
+      "code": "YYZ",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YQT",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YSB",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YYT",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YAM",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YXE",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YQR",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YQB",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YOW",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YYB",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "ADZ",
+      "countryCode": "CO",
+      "countryChineaseName": "哥伦比亚"
+    },
+    {
+      "code": "YUL",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YFC",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YEG",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YDF",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    },
+    {
+      "code": "YYC",
+      "countryCode": "CA",
+      "countryChineaseName": "加拿大"
+    }
+  ]
+}

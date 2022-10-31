@@ -1,0 +1,5415 @@
+{
+  "flightChooseDates": [
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221231",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$293"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 31 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 31 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $159.00",
+      "Surcharges": "Surcharges 1 X  $23.44",
+      "Taxes_Fees_And_Charges": "1 X  $112.97",
+      "Td_Pricetotal": "$295.41  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230107",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$230"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Jan 07 2023   6:30 AM",
+        "Todate": "Arriving:  Sat Jan 07 2023   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $99.00",
+      "Surcharges": "Surcharges 1 X  $23.44",
+      "Taxes_Fees_And_Charges": "1 X  $109.97",
+      "Td_Pricetotal": "$232.41  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221224",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG055",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$336"
+        },
+        "time_dep": "6:55 am\n                                                    ",
+        "time_arr": "Arriving 9:55 am Sat",
+        "duration": "03h 00m",
+        "Fromdate": "Departing:  Sat Dec 24 2022   6:55 AM",
+        "Todate": "Arriving:  Sat Dec 24 2022   9:55 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $209.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $109.47",
+      "Td_Pricetotal": "$337.91  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221224",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG055",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$210"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:00 am Wed",
+        "duration": "03h 00m",
+        "Fromdate": "Departing:  Wed Dec 21 2022   7:00 AM",
+        "Todate": "Arriving:  Wed Dec 21 2022   10:00 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $89.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $103.47",
+      "Td_Pricetotal": "$211.91  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YHZ",
+        "countryId": 1,
+        "airportName": "Halifax",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230310",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG036",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$351"
+        },
+        "time_dep": "6:00 am\n                                                    ",
+        "time_arr": "Arriving 9:00 am Fri",
+        "duration": "04h 00m",
+        "Fromdate": "Departing:  Fri Mar 10 2023   6:00 AM",
+        "Todate": "Arriving:  Fri Mar 10 2023   9:00 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $219.00",
+      "Surcharges": "Surcharges 1 X  $17.52",
+      "Taxes_Fees_And_Charges": "1 X  $116.31",
+      "Td_Pricetotal": "$352.83  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YUL",
+        "countryId": 1,
+        "airportName": "Montreal",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230115",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG088",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$223"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:50 am Sun",
+        "duration": "03h 50m",
+        "Fromdate": "Departing:  Sun Jan 15 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 15 2023   10:50 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $99.00",
+      "Surcharges": "Surcharges 1 X  $15.77",
+      "Taxes_Fees_And_Charges": "1 X  $110.31",
+      "Td_Pricetotal": "$225.08  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YHZ",
+        "countryId": 1,
+        "airportName": "Halifax",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230303",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG036",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$403"
+        },
+        "time_dep": "6:00 am\n                                                    ",
+        "time_arr": "Arriving 9:00 am Fri",
+        "duration": "04h 00m",
+        "Fromdate": "Departing:  Fri Mar 03 2023   6:00 AM",
+        "Todate": "Arriving:  Fri Mar 03 2023   9:00 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $269.00",
+      "Surcharges": "Surcharges 1 X  $17.52",
+      "Taxes_Fees_And_Charges": "1 X  $118.81",
+      "Td_Pricetotal": "$405.33  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YHZ",
+        "countryId": 1,
+        "airportName": "Halifax",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230224",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG036",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$309"
+        },
+        "time_dep": "6:00 am\n                                                    ",
+        "time_arr": "Arriving 9:00 am Fri",
+        "duration": "04h 00m",
+        "Fromdate": "Departing:  Fri Feb 24 2023   6:00 AM",
+        "Todate": "Arriving:  Fri Feb 24 2023   9:00 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $179.00",
+      "Surcharges": "Surcharges 1 X  $17.52",
+      "Taxes_Fees_And_Charges": "1 X  $114.31",
+      "Td_Pricetotal": "$310.83  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YHZ",
+        "countryId": 1,
+        "airportName": "Halifax",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230210",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG036",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$288"
+        },
+        "time_dep": "6:00 am\n                                                    ",
+        "time_arr": "Arriving 9:00 am Fri",
+        "duration": "04h 00m",
+        "Fromdate": "Departing:  Fri Feb 10 2023   6:00 AM",
+        "Todate": "Arriving:  Fri Feb 10 2023   9:00 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $159.00",
+      "Surcharges": "Surcharges 1 X  $17.52",
+      "Taxes_Fees_And_Charges": "1 X  $113.31",
+      "Td_Pricetotal": "$289.83  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YUL",
+        "countryId": 1,
+        "airportName": "Montreal",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230101",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG088",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$318"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:50 am Sun",
+        "duration": "03h 50m",
+        "Fromdate": "Departing:  Sun Jan 01 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 01 2023   10:50 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $189.00",
+      "Surcharges": "Surcharges 1 X  $15.77",
+      "Taxes_Fees_And_Charges": "1 X  $114.81",
+      "Td_Pricetotal": "$319.58  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YUL",
+        "countryId": 1,
+        "airportName": "Montreal",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230108",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG088",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$223"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:50 am Sun",
+        "duration": "03h 50m",
+        "Fromdate": "Departing:  Sun Jan 08 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 08 2023   10:50 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $99.00",
+      "Surcharges": "Surcharges 1 X  $15.77",
+      "Taxes_Fees_And_Charges": "1 X  $110.31",
+      "Td_Pricetotal": "$225.08  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230107",
+      "selectReturnDate": "20230107",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$190"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Jan 07 2023   6:30 AM",
+        "Todate": "Arriving:  Sat Jan 07 2023   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$139"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Jan 07 2023   12:45 PM",
+        "Todate": "Arriving:  Sat Jan 07 2023   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $129.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $153.57",
+      "Td_Pricetotal": "$329.45  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230115",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$241"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Jan 15 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 15 2023   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $119.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $104.97",
+      "Td_Pricetotal": "$243.41  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221231",
+      "selectReturnDate": "20230107",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$253"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 31 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 31 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$139"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Jan 07 2023   12:45 PM",
+        "Todate": "Arriving:  Sat Jan 07 2023   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 5-9 nts age 74 and under",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 5-9 nts age 74 and under",
+          "feePrice": "+$169 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $189.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $156.57",
+      "Td_Pricetotal": "$392.45  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221231",
+      "selectReturnDate": "20221231",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$253"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 31 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 31 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$234"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Dec 31 2022   12:45 PM",
+        "Todate": "Arriving:  Sat Dec 31 2022   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $279.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $161.07",
+      "Td_Pricetotal": "$486.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221224",
+      "selectReturnDate": "20230107",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$253"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 24 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 24 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$139"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Jan 07 2023   12:45 PM",
+        "Todate": "Arriving:  Sat Jan 07 2023   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 10-16 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 10-16 nt age 74 and under",
+          "feePrice": "+$199 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $189.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $156.57",
+      "Td_Pricetotal": "$392.45  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221224",
+      "selectReturnDate": "20221231",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$253"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 24 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 24 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$234"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Dec 31 2022   12:45 PM",
+        "Todate": "Arriving:  Sat Dec 31 2022   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 5-9 nts age 74 and under",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 5-9 nts age 74 and under",
+          "feePrice": "+$169 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $279.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $161.07",
+      "Td_Pricetotal": "$486.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221224",
+      "selectReturnDate": "20221224",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$253"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 24 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 24 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$118"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Dec 24 2022   12:45 PM",
+        "Todate": "Arriving:  Sat Dec 24 2022   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $169.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $155.57",
+      "Td_Pricetotal": "$371.45  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221217",
+      "selectReturnDate": "20230107",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$180"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 17 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 17 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$139"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Jan 07 2023   12:45 PM",
+        "Todate": "Arriving:  Sat Jan 07 2023   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 17-30 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 17-30 nt age 74 and under",
+          "feePrice": "+$199 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $119.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $153.07",
+      "Td_Pricetotal": "$318.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221217",
+      "selectReturnDate": "20221231",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$180"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 17 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 17 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$234"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Dec 31 2022   12:45 PM",
+        "Todate": "Arriving:  Sat Dec 31 2022   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 10-16 nts age 74 and under",
+          "feePrice": "+$129 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 10-16 nt age 74 and under",
+          "feePrice": "+$179 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $209.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $157.57",
+      "Td_Pricetotal": "$413.45  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221217",
+      "selectReturnDate": "20221224",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$180"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 17 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 17 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$118"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Dec 24 2022   12:45 PM",
+        "Todate": "Arriving:  Sat Dec 24 2022   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 5-9 nts age 74 and under",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 5-9 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $99.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $152.07",
+      "Td_Pricetotal": "$297.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221217",
+      "selectReturnDate": "20221217",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$180"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 17 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 17 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$97"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Dec 17 2022   12:45 PM",
+        "Todate": "Arriving:  Sat Dec 17 2022   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $79.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $151.07",
+      "Td_Pricetotal": "$276.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230115",
+      "selectReturnDate": "20230115",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$201"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Jan 15 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 15 2023   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$167"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 15 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 15 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $179.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $150.07",
+      "Td_Pricetotal": "$367.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230108",
+      "selectReturnDate": "20230115",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$180"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Jan 08 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 08 2023   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$167"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 15 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 15 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 5-9 nts age 74 and under",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 5-9 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $159.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $149.07",
+      "Td_Pricetotal": "$346.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230108",
+      "selectReturnDate": "20230108",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$180"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Jan 08 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 08 2023   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$482"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 08 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 08 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $459.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $164.07",
+      "Td_Pricetotal": "$661.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230101",
+      "selectReturnDate": "20230115",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$285"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Jan 01 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 01 2023   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$167"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 15 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 15 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 10-16 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 10-16 nt age 74 and under",
+          "feePrice": "+$199 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $259.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $154.07",
+      "Td_Pricetotal": "$451.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230101",
+      "selectReturnDate": "20230101",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$285"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Jan 01 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 01 2023   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$335"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 01 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 01 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $419.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $162.07",
+      "Td_Pricetotal": "$619.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230101",
+      "selectReturnDate": "20230108",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$285"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Jan 01 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 01 2023   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$482"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 08 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 08 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 5-9 nts age 74 and under",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 5-9 nts age 74 and under",
+          "feePrice": "+$169 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $559.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $169.07",
+      "Td_Pricetotal": "$766.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221225",
+      "selectReturnDate": "20230115",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$453"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 25 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 25 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$167"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 15 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 15 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 17-30 nts age 74 and under",
+          "feePrice": "+$169 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 17-30 nt age 74 and under",
+          "feePrice": "+$219 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $419.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $162.07",
+      "Td_Pricetotal": "$619.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221225",
+      "selectReturnDate": "20230108",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$453"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 25 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 25 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$482"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 08 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 08 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 10-16 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 10-16 nt age 74 and under",
+          "feePrice": "+$199 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $719.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $177.07",
+      "Td_Pricetotal": "$934.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221225",
+      "selectReturnDate": "20221225",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$453"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 25 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 25 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$114"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Dec 25 2022   12:00 PM",
+        "Todate": "Arriving:  Sun Dec 25 2022   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $369.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $159.57",
+      "Td_Pricetotal": "$567.45  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221225",
+      "selectReturnDate": "20230101",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$453"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 25 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 25 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$335"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 01 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 01 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 5-9 nts age 74 and under",
+          "feePrice": "+$119 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 5-9 nts age 74 and under",
+          "feePrice": "+$169 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $579.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $170.07",
+      "Td_Pricetotal": "$787.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221218",
+      "selectReturnDate": "20230115",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$275"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 18 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 18 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$167"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 15 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 15 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 17-30 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 17-30 nt age 74 and under",
+          "feePrice": "+$199 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $249.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $153.57",
+      "Td_Pricetotal": "$441.45  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221218",
+      "selectReturnDate": "20230108",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$275"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 18 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 18 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$482"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 08 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 08 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 17-30 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 17-30 nt age 74 and under",
+          "feePrice": "+$199 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $549.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $168.57",
+      "Td_Pricetotal": "$756.45  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221218",
+      "selectReturnDate": "20221218",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$275"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 18 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 18 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$177"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Dec 18 2022   12:00 PM",
+        "Todate": "Arriving:  Sun Dec 18 2022   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $259.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $154.07",
+      "Td_Pricetotal": "$451.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221218",
+      "selectReturnDate": "20221225",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$275"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 18 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 18 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$114"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Dec 25 2022   12:00 PM",
+        "Todate": "Arriving:  Sun Dec 25 2022   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 5-9 nts age 74 and under",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 5-9 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $199.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $151.07",
+      "Td_Pricetotal": "$388.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221210",
+      "selectReturnDate": "20230107",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$159"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 10 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 10 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$139"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Jan 07 2023   12:45 PM",
+        "Todate": "Arriving:  Sat Jan 07 2023   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 17-30 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 17-30 nt age 74 and under",
+          "feePrice": "+$199 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $99.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $152.07",
+      "Td_Pricetotal": "$297.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221210",
+      "selectReturnDate": "20221231",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$159"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 10 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 10 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$234"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Dec 31 2022   12:45 PM",
+        "Todate": "Arriving:  Sat Dec 31 2022   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 17-30 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 17-30 nt age 74 and under",
+          "feePrice": "+$199 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $189.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $156.57",
+      "Td_Pricetotal": "$392.45  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221210",
+      "selectReturnDate": "20221224",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$159"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 10 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 10 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$118"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Dec 24 2022   12:45 PM",
+        "Todate": "Arriving:  Sat Dec 24 2022   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 10-16 nts age 74 and under",
+          "feePrice": "+$129 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 10-16 nt age 74 and under",
+          "feePrice": "+$179 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $79.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $151.07",
+      "Td_Pricetotal": "$276.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221210",
+      "selectReturnDate": "20221217",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$159"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 10 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 10 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG047",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$97"
+        },
+        "time_dep": "12:45 pm\n                                                    ",
+        "time_arr": "Arriving 4:05 pm Sat",
+        "duration": "04h 20m",
+        "Fromdate": "Departing:  Sat Dec 17 2022   12:45 PM",
+        "Todate": "Arriving:  Sat Dec 17 2022   4:05 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 5-9 nts age 74 and under",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 5-9 nts age 74 and under",
+          "feePrice": "+$149 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $59.00",
+      "Surcharges": "Surcharges 1 X  $46.88",
+      "Taxes_Fees_And_Charges": "1 X  $150.07",
+      "Td_Pricetotal": "$255.95  CAD"
+    },
+    {
+      "flightType": 1,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221218",
+      "selectReturnDate": "20230101",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$275"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 18 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 18 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "WG083",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$335"
+        },
+        "time_dep": "12:00 pm\n                                                    ",
+        "time_arr": "Arriving 3:10 pm Sun",
+        "duration": "03h 10m",
+        "Fromdate": "Departing:  Sun Jan 01 2023   12:00 PM",
+        "Todate": "Arriving:  Sun Jan 01 2023   3:10 PM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st Bag For Returning Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Returning Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Returning Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free 10-16 nts age 74 and under",
+          "feePrice": "+$129 .00 per person"
+        },
+        {
+          "feeName": "Manulife Worry Free Plus 10-16 nt age 74 and under",
+          "feePrice": "+$179 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $409.00",
+      "Surcharges": "Surcharges 1 X  $38.88",
+      "Taxes_Fees_And_Charges": "1 X  $161.57",
+      "Td_Pricetotal": "$609.45  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YUL",
+        "countryId": 1,
+        "airportName": "Montreal",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221225",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG088",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$549"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:50 am Sun",
+        "duration": "03h 50m",
+        "Fromdate": "Departing:  Sun Dec 25 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 25 2022   10:50 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $409.00",
+      "Surcharges": "Surcharges 1 X  $15.77",
+      "Taxes_Fees_And_Charges": "1 X  $125.81",
+      "Td_Pricetotal": "$550.58  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YUL",
+        "countryId": 1,
+        "airportName": "Montreal",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221218",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG088",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$318"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:50 am Sun",
+        "duration": "03h 50m",
+        "Fromdate": "Departing:  Sun Dec 18 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 18 2022   10:50 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $189.00",
+      "Surcharges": "Surcharges 1 X  $15.77",
+      "Taxes_Fees_And_Charges": "1 X  $114.81",
+      "Td_Pricetotal": "$319.58  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221217",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG055",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$189"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:00 am Wed",
+        "duration": "03h 00m",
+        "Fromdate": "Departing:  Wed Dec 14 2022   7:00 AM",
+        "Todate": "Arriving:  Wed Dec 14 2022   10:00 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $69.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $102.47",
+      "Td_Pricetotal": "$190.91  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221221",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG055",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$336"
+        },
+        "time_dep": "6:55 am\n                                                    ",
+        "time_arr": "Arriving 9:55 am Sat",
+        "duration": "03h 00m",
+        "Fromdate": "Departing:  Sat Dec 24 2022   6:55 AM",
+        "Todate": "Arriving:  Sat Dec 24 2022   9:55 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $209.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $109.47",
+      "Td_Pricetotal": "$337.91  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221210",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG055",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$199"
+        },
+        "time_dep": "6:55 am\n                                                    ",
+        "time_arr": "Arriving 9:55 am Sat",
+        "duration": "03h 00m",
+        "Fromdate": "Departing:  Sat Dec 10 2022   6:55 AM",
+        "Todate": "Arriving:  Sat Dec 10 2022   9:55 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $79.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $102.97",
+      "Td_Pricetotal": "$201.41  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221214",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG055",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$199"
+        },
+        "time_dep": "6:55 am\n                                                    ",
+        "time_arr": "Arriving 9:55 am Sat",
+        "duration": "03h 00m",
+        "Fromdate": "Departing:  Sat Dec 17 2022   6:55 AM",
+        "Todate": "Arriving:  Sat Dec 17 2022   9:55 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $79.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $102.97",
+      "Td_Pricetotal": "$201.41  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230108",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$220"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Jan 08 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 08 2023   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $99.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $103.97",
+      "Td_Pricetotal": "$222.41  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221225",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$493"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 25 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 25 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $359.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $116.97",
+      "Td_Pricetotal": "$495.41  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20230101",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$325"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Jan 01 2023   7:00 AM",
+        "Todate": "Arriving:  Sun Jan 01 2023   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $199.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $108.97",
+      "Td_Pricetotal": "$327.41  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MIA",
+        "countryId": "",
+        "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221218",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG082",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$315"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:20 am Sun",
+        "duration": "03h 20m",
+        "Fromdate": "Departing:  Sun Dec 18 2022   7:00 AM",
+        "Todate": "Arriving:  Sun Dec 18 2022   10:20 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [],
+      "Air_Transportation_Charges": "1 X  $189.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $108.47",
+      "Td_Pricetotal": "$316.91  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221224",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$293"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 24 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 24 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $159.00",
+      "Surcharges": "Surcharges 1 X  $23.44",
+      "Taxes_Fees_And_Charges": "1 X  $112.97",
+      "Td_Pricetotal": "$295.41  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221214",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG055",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$189"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:00 am Wed",
+        "duration": "03h 00m",
+        "Fromdate": "Departing:  Wed Dec 14 2022   7:00 AM",
+        "Todate": "Arriving:  Wed Dec 14 2022   10:00 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $69.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $102.47",
+      "Td_Pricetotal": "$190.91  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221217",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$220"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 17 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 17 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $89.00",
+      "Surcharges": "Surcharges 1 X  $23.44",
+      "Taxes_Fees_And_Charges": "1 X  $109.47",
+      "Td_Pricetotal": "$221.91  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221217",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG055",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$199"
+        },
+        "time_dep": "6:55 am\n                                                    ",
+        "time_arr": "Arriving 9:55 am Sat",
+        "duration": "03h 00m",
+        "Fromdate": "Departing:  Sat Dec 17 2022   6:55 AM",
+        "Todate": "Arriving:  Sat Dec 17 2022   9:55 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $79.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $102.97",
+      "Td_Pricetotal": "$201.41  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221221",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG055",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$210"
+        },
+        "time_dep": "7:00 am\n                                                    ",
+        "time_arr": "Arriving 10:00 am Wed",
+        "duration": "03h 00m",
+        "Fromdate": "Departing:  Wed Dec 21 2022   7:00 AM",
+        "Todate": "Arriving:  Wed Dec 21 2022   10:00 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$69 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$119 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Terminal 3 Toronto Airport",
+          "feePrice": "+$45 .20 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $89.00",
+      "Surcharges": "Surcharges 1 X  $19.44",
+      "Taxes_Fees_And_Charges": "1 X  $103.47",
+      "Td_Pricetotal": "$211.91  CAD"
+    },
+    {
+      "flightType": 0,
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destination": {
+        "code": "MLB",
+        "countryId": "",
+        "airportName": "Melbourne, USA (MLB)",
+        "countryName": "USA",
+        "countryCode": "US",
+        "countryChineaseName": "美国"
+      },
+      "selectFromDate": "20221210",
+      "selectReturnDate": "",
+      "chooseDepartingFlight": {
+        "flightName": "WG046",
+        "planeName": "737",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": "$199"
+        },
+        "time_dep": "6:30 am\n                                                    ",
+        "time_arr": "Arriving 11:35 am Sat",
+        "duration": "04h 05m",
+        "Fromdate": "Departing:  Sat Dec 10 2022   6:30 AM",
+        "Todate": "Arriving:  Sat Dec 10 2022   11:35 AM",
+        "Nb_seats_for_ajax0": "1 ticket: 1 adults "
+      },
+      "chooseReturningFlight": {
+        "flightName": "",
+        "planeName": "",
+        "chooseTicket": {
+          "ticketType": 0,
+          "price": ""
+        },
+        "time_dep": "",
+        "time_arr": "",
+        "duration": "",
+        "Fromdate": "",
+        "Todate": "",
+        "Nb_seats_for_ajax0": ""
+      },
+      "Upgrade_Your_Experience": [
+        {
+          "feeName": "Pre Purchase 1st Bag For Departing Flight",
+          "feePrice": "+$50 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase 1st And 2nd Bag For Departing Flight",
+          "feePrice": "+$120 .00 per person"
+        },
+        {
+          "feeName": "Pre Purchase Carry On Luggage for Departing Flight",
+          "feePrice": "+$25 .00 per person"
+        }
+      ],
+      "Protect_Your_Vacation": [
+        {
+          "feeName": "Worry Free - cancel up to 3 days prior",
+          "feePrice": "+$49 .00 per person"
+        },
+        {
+          "feeName": "Worry Free Plus - cancel up to 3 hours prior",
+          "feePrice": "+$99 .00 per person"
+        }
+      ],
+      "Airport_Lounge": [
+        {
+          "feeName": "Plaza Premium Lounge Winnipeg Airport",
+          "feePrice": "+$44 .80 per person"
+        }
+      ],
+      "Excursions": [
+        {
+          "feeName": "Brevard Zoo 1 Day Admission",
+          "feePrice": "+$40 .00 per person"
+        }
+      ],
+      "Air_Transportation_Charges": "1 X  $69.00",
+      "Surcharges": "Surcharges 1 X  $23.44",
+      "Taxes_Fees_And_Charges": "1 X  $108.47",
+      "Td_Pricetotal": "$200.91  CAD"
+    }
+  ]
+}

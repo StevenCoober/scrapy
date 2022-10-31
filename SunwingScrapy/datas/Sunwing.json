@@ -1,0 +1,1976 @@
+{
+  "oneways": [
+    {
+      "origin": {
+        "code": "YBG",
+        "countryId": 1,
+        "airportName": "Bagotville",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YYC",
+        "countryId": 1,
+        "airportName": "Calgary",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YDF",
+        "countryId": 1,
+        "airportName": "Deer Lake",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YEG",
+        "countryId": 1,
+        "airportName": "Edmonton",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YFC",
+        "countryId": 1,
+        "airportName": "Fredericton",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YQX",
+        "countryId": 1,
+        "airportName": "Gander",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YHZ",
+        "countryId": 1,
+        "airportName": "Halifax",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "MLB",
+          "countryId": "",
+          "airportName": "Melbourne, USA (MLB)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YHM",
+        "countryId": 1,
+        "airportName": "Hamilton",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YLW",
+        "countryId": 1,
+        "airportName": "Kelowna",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YKF",
+        "countryId": 1,
+        "airportName": "Kitchener",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YXU",
+        "countryId": 1,
+        "airportName": "London",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YQM",
+        "countryId": 1,
+        "airportName": "Moncton",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YUL",
+        "countryId": 1,
+        "airportName": "Montreal",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "MIA",
+          "countryId": "",
+          "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YYB",
+        "countryId": 1,
+        "airportName": "North Bay",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YOW",
+        "countryId": 1,
+        "airportName": "Ottawa",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YQB",
+        "countryId": 1,
+        "airportName": "Québec",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YQR",
+        "countryId": 1,
+        "airportName": "Regina",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YXE",
+        "countryId": 1,
+        "airportName": "Saskatoon",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YAM",
+        "countryId": 2,
+        "airportName": "Sault Ste. Marie",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YYT",
+        "countryId": 1,
+        "airportName": "St. John's",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YSB",
+        "countryId": 1,
+        "airportName": "Sudbury",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YQT",
+        "countryId": 1,
+        "airportName": "Thunder Bay",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "MLB",
+          "countryId": "",
+          "airportName": "Melbourne, USA (MLB)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        },
+        {
+          "code": "MIA",
+          "countryId": "",
+          "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        },
+        {
+          "code": "MCO",
+          "countryId": "",
+          "airportName": "Orlando, Florida, USA (MCO)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YVR",
+        "countryId": 1,
+        "airportName": "Vancouver",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YQG",
+        "countryId": 1,
+        "airportName": "Windsor",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": []
+    },
+    {
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "MLB",
+          "countryId": "",
+          "airportName": "Melbourne, USA (MLB)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        }
+      ]
+    }
+  ],
+  "roundtrips": [
+    {
+      "origin": {
+        "code": "YBG",
+        "countryId": 1,
+        "airportName": "Bagotville",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YYC",
+        "countryId": 1,
+        "airportName": "Calgary",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "LIR",
+          "countryId": "",
+          "airportName": "Liberia / Guanacaste, Costa Rica (LIR)",
+          "countryName": "Costa Rica",
+          "countryCode": "CR",
+          "countryChineaseName": "哥斯达黎加"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "MBJ",
+          "countryId": "",
+          "airportName": "Montego Bay, Jamaica (MBJ)",
+          "countryName": "Jamaica",
+          "countryCode": "JM",
+          "countryChineaseName": "牙买加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "SJD",
+          "countryId": "",
+          "airportName": "Los Cabos, Mexico (SJD)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MZT",
+          "countryId": "",
+          "airportName": "Mazatlan, Mexico (MZT)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YDF",
+        "countryId": 1,
+        "airportName": "Deer Lake",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YEG",
+        "countryId": 1,
+        "airportName": "Edmonton",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "LIR",
+          "countryId": "",
+          "airportName": "Liberia / Guanacaste, Costa Rica (LIR)",
+          "countryName": "Costa Rica",
+          "countryCode": "CR",
+          "countryChineaseName": "哥斯达黎加"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "MBJ",
+          "countryId": "",
+          "airportName": "Montego Bay, Jamaica (MBJ)",
+          "countryName": "Jamaica",
+          "countryCode": "JM",
+          "countryChineaseName": "牙买加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "SJD",
+          "countryId": "",
+          "airportName": "Los Cabos, Mexico (SJD)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MZT",
+          "countryId": "",
+          "airportName": "Mazatlan, Mexico (MZT)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YFC",
+        "countryId": 1,
+        "airportName": "Fredericton",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "SNU",
+          "countryId": "",
+          "airportName": "Cayo Santa Maria, Cuba (SNU)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YQX",
+        "countryId": 1,
+        "airportName": "Gander",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YHZ",
+        "countryId": 1,
+        "airportName": "Halifax",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "CYO",
+          "countryId": "",
+          "airportName": "Cayo Largo, Cuba (CYO)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "SNU",
+          "countryId": "",
+          "airportName": "Cayo Santa Maria, Cuba (SNU)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "HOG",
+          "countryId": "",
+          "airportName": "Holguin, Cuba (HOG)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "POP",
+          "countryId": "",
+          "airportName": "Puerto Plata, Dominican Republic (POP)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "MBJ",
+          "countryId": "",
+          "airportName": "Montego Bay, Jamaica (MBJ)",
+          "countryName": "Jamaica",
+          "countryCode": "JM",
+          "countryChineaseName": "牙买加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MLB",
+          "countryId": "",
+          "airportName": "Melbourne, USA (MLB)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YHM",
+        "countryId": 1,
+        "airportName": "Hamilton",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "HOG",
+          "countryId": "",
+          "airportName": "Holguin, Cuba (HOG)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YLW",
+        "countryId": 1,
+        "airportName": "Kelowna",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MZT",
+          "countryId": "",
+          "airportName": "Mazatlan, Mexico (MZT)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YKF",
+        "countryId": 1,
+        "airportName": "Kitchener",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YXU",
+        "countryId": 1,
+        "airportName": "London",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YQM",
+        "countryId": 1,
+        "airportName": "Moncton",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "POP",
+          "countryId": "",
+          "airportName": "Puerto Plata, Dominican Republic (POP)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "MBJ",
+          "countryId": "",
+          "airportName": "Montego Bay, Jamaica (MBJ)",
+          "countryName": "Jamaica",
+          "countryCode": "JM",
+          "countryChineaseName": "牙买加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YUL",
+        "countryId": 1,
+        "airportName": "Montreal",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "FPO",
+          "countryId": "",
+          "airportName": "Freeport / Grand Bahama, Bahamas (FPO)",
+          "countryName": "Bahamas",
+          "countryCode": "BS",
+          "countryChineaseName": "巴哈马"
+        },
+        {
+          "code": "ADZ",
+          "countryId": "",
+          "airportName": "San Andres, Colombia (ADZ)",
+          "countryName": "Colombia",
+          "countryCode": "CO",
+          "countryChineaseName": "哥伦比亚"
+        },
+        {
+          "code": "LIR",
+          "countryId": "",
+          "airportName": "Liberia / Guanacaste, Costa Rica (LIR)",
+          "countryName": "Costa Rica",
+          "countryCode": "CR",
+          "countryChineaseName": "哥斯达黎加"
+        },
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "CYO",
+          "countryId": "",
+          "airportName": "Cayo Largo, Cuba (CYO)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "SNU",
+          "countryId": "",
+          "airportName": "Cayo Santa Maria, Cuba (SNU)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "HOG",
+          "countryId": "",
+          "airportName": "Holguin, Cuba (HOG)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "MZO",
+          "countryId": "",
+          "airportName": "Manzanillo de Cuba, Cuba (MZO)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "POP",
+          "countryId": "",
+          "airportName": "Puerto Plata, Dominican Republic (POP)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "RTB",
+          "countryId": "",
+          "airportName": "Roatan, Honduras (RTB)",
+          "countryName": "Honduras",
+          "countryCode": "HN",
+          "countryChineaseName": "洪都拉斯"
+        },
+        {
+          "code": "MBJ",
+          "countryId": "",
+          "airportName": "Montego Bay, Jamaica (MBJ)",
+          "countryName": "Jamaica",
+          "countryCode": "JM",
+          "countryChineaseName": "牙买加"
+        },
+        {
+          "code": "ACA",
+          "countryId": "",
+          "airportName": "Acapulco, Mexico (ACA)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "SJD",
+          "countryId": "",
+          "airportName": "Los Cabos, Mexico (SJD)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MZT",
+          "countryId": "",
+          "airportName": "Mazatlan, Mexico (MZT)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "RIH",
+          "countryId": "",
+          "airportName": "Playa Blanca, Panama (RIH)",
+          "countryName": "Panama",
+          "countryCode": "PA",
+          "countryChineaseName": "巴拿马"
+        },
+        {
+          "code": "SXM",
+          "countryId": "",
+          "airportName": "St Maarten / Saint Martin,  (SXM)",
+          "countryName": "St Maarten",
+          "countryCode": "SX",
+          "countryChineaseName": "圣马丁(荷属)"
+        },
+        {
+          "code": "MIA",
+          "countryId": "",
+          "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YYB",
+        "countryId": 1,
+        "airportName": "North Bay",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YOW",
+        "countryId": 1,
+        "airportName": "Ottawa",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "CYO",
+          "countryId": "",
+          "airportName": "Cayo Largo, Cuba (CYO)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "SNU",
+          "countryId": "",
+          "airportName": "Cayo Santa Maria, Cuba (SNU)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "HOG",
+          "countryId": "",
+          "airportName": "Holguin, Cuba (HOG)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "POP",
+          "countryId": "",
+          "airportName": "Puerto Plata, Dominican Republic (POP)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "MBJ",
+          "countryId": "",
+          "airportName": "Montego Bay, Jamaica (MBJ)",
+          "countryName": "Jamaica",
+          "countryCode": "JM",
+          "countryChineaseName": "牙买加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "SJD",
+          "countryId": "",
+          "airportName": "Los Cabos, Mexico (SJD)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YQB",
+        "countryId": 1,
+        "airportName": "Québec",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "CYO",
+          "countryId": "",
+          "airportName": "Cayo Largo, Cuba (CYO)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "SNU",
+          "countryId": "",
+          "airportName": "Cayo Santa Maria, Cuba (SNU)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "HOG",
+          "countryId": "",
+          "airportName": "Holguin, Cuba (HOG)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "POP",
+          "countryId": "",
+          "airportName": "Puerto Plata, Dominican Republic (POP)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "RTB",
+          "countryId": "",
+          "airportName": "Roatan, Honduras (RTB)",
+          "countryName": "Honduras",
+          "countryCode": "HN",
+          "countryChineaseName": "洪都拉斯"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "RIH",
+          "countryId": "",
+          "airportName": "Playa Blanca, Panama (RIH)",
+          "countryName": "Panama",
+          "countryCode": "PA",
+          "countryChineaseName": "巴拿马"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YQR",
+        "countryId": 1,
+        "airportName": "Regina",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "SJD",
+          "countryId": "",
+          "airportName": "Los Cabos, Mexico (SJD)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MZT",
+          "countryId": "",
+          "airportName": "Mazatlan, Mexico (MZT)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YXE",
+        "countryId": 1,
+        "airportName": "Saskatoon",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "SJD",
+          "countryId": "",
+          "airportName": "Los Cabos, Mexico (SJD)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MZT",
+          "countryId": "",
+          "airportName": "Mazatlan, Mexico (MZT)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YAM",
+        "countryId": 2,
+        "airportName": "Sault Ste. Marie",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YYT",
+        "countryId": 1,
+        "airportName": "St. John's",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "MBJ",
+          "countryId": "",
+          "airportName": "Montego Bay, Jamaica (MBJ)",
+          "countryName": "Jamaica",
+          "countryCode": "JM",
+          "countryChineaseName": "牙买加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YSB",
+        "countryId": 1,
+        "airportName": "Sudbury",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YQT",
+        "countryId": 1,
+        "airportName": "Thunder Bay",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YYZ",
+        "countryId": 1,
+        "airportName": "Toronto",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "ANU",
+          "countryId": "",
+          "airportName": "Antigua and Barbuda, Antigua (ANU)",
+          "countryName": "Antigua",
+          "countryCode": "AG",
+          "countryChineaseName": "安提瓜和巴布达"
+        },
+        {
+          "code": "AUA",
+          "countryId": "",
+          "airportName": "Aruba (AUA)",
+          "countryName": "Aruba",
+          "countryCode": "AW",
+          "countryChineaseName": "阿鲁巴"
+        },
+        {
+          "code": "FPO",
+          "countryId": "",
+          "airportName": "Freeport / Grand Bahama, Bahamas (FPO)",
+          "countryName": "Bahamas",
+          "countryCode": "BS",
+          "countryChineaseName": "巴哈马"
+        },
+        {
+          "code": "LIR",
+          "countryId": "",
+          "airportName": "Liberia / Guanacaste, Costa Rica (LIR)",
+          "countryName": "Costa Rica",
+          "countryCode": "CR",
+          "countryChineaseName": "哥斯达黎加"
+        },
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "CYO",
+          "countryId": "",
+          "airportName": "Cayo Largo, Cuba (CYO)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "SNU",
+          "countryId": "",
+          "airportName": "Cayo Santa Maria, Cuba (SNU)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "HOG",
+          "countryId": "",
+          "airportName": "Holguin, Cuba (HOG)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "MZO",
+          "countryId": "",
+          "airportName": "Manzanillo de Cuba, Cuba (MZO)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "POP",
+          "countryId": "",
+          "airportName": "Puerto Plata, Dominican Republic (POP)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "GND",
+          "countryId": "",
+          "airportName": "Grenada (GND)",
+          "countryName": "Grenada",
+          "countryCode": "GD",
+          "countryChineaseName": "格林纳达"
+        },
+        {
+          "code": "RTB",
+          "countryId": "",
+          "airportName": "Roatan, Honduras (RTB)",
+          "countryName": "Honduras",
+          "countryCode": "HN",
+          "countryChineaseName": "洪都拉斯"
+        },
+        {
+          "code": "MBJ",
+          "countryId": "",
+          "airportName": "Montego Bay, Jamaica (MBJ)",
+          "countryName": "Jamaica",
+          "countryCode": "JM",
+          "countryChineaseName": "牙买加"
+        },
+        {
+          "code": "ACA",
+          "countryId": "",
+          "airportName": "Acapulco, Mexico (ACA)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "SJD",
+          "countryId": "",
+          "airportName": "Los Cabos, Mexico (SJD)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MZT",
+          "countryId": "",
+          "airportName": "Mazatlan, Mexico (MZT)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "RIH",
+          "countryId": "",
+          "airportName": "Playa Blanca, Panama (RIH)",
+          "countryName": "Panama",
+          "countryCode": "PA",
+          "countryChineaseName": "巴拿马"
+        },
+        {
+          "code": "UVF",
+          "countryId": "",
+          "airportName": "Saint Lucia  (UVF)",
+          "countryName": "Saint Lucia",
+          "countryCode": "LC",
+          "countryChineaseName": "圣卢西亚"
+        },
+        {
+          "code": "SXM",
+          "countryId": "",
+          "airportName": "St Maarten / Saint Martin,  (SXM)",
+          "countryName": "St Maarten",
+          "countryCode": "SX",
+          "countryChineaseName": "圣马丁(荷属)"
+        },
+        {
+          "code": "MLB",
+          "countryId": "",
+          "airportName": "Melbourne, USA (MLB)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        },
+        {
+          "code": "MIA",
+          "countryId": "",
+          "airportName": "Miami/Fort Lauderdale, Florida, USA (MIA)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        },
+        {
+          "code": "MCO",
+          "countryId": "",
+          "airportName": "Orlando, Florida, USA (MCO)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YVR",
+        "countryId": 1,
+        "airportName": "Vancouver",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "SJD",
+          "countryId": "",
+          "airportName": "Los Cabos, Mexico (SJD)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MZT",
+          "countryId": "",
+          "airportName": "Mazatlan, Mexico (MZT)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YQG",
+        "countryId": 1,
+        "airportName": "Windsor",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "SNU",
+          "countryId": "",
+          "airportName": "Cayo Santa Maria, Cuba (SNU)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        }
+      ]
+    },
+    {
+      "origin": {
+        "code": "YWG",
+        "countryId": 1,
+        "airportName": "Winnipeg",
+        "countryName": "",
+        "countryCode": "CA",
+        "countryChineaseName": "加拿大"
+      },
+      "destinations": [
+        {
+          "code": "CCC",
+          "countryId": "",
+          "airportName": "Cayo Coco, Cuba (CCC)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "VRA",
+          "countryId": "",
+          "airportName": "Varadero, Cuba (VRA)",
+          "countryName": "Cuba",
+          "countryCode": "CU",
+          "countryChineaseName": "古巴"
+        },
+        {
+          "code": "POP",
+          "countryId": "",
+          "airportName": "Puerto Plata, Dominican Republic (POP)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "PUJ",
+          "countryId": "",
+          "airportName": "Punta Cana, Dominican Republic (PUJ)",
+          "countryName": "Dominican Republic",
+          "countryCode": "DO",
+          "countryChineaseName": "多米尼加"
+        },
+        {
+          "code": "CUN",
+          "countryId": "",
+          "airportName": "Cancun / Riviera Maya, Mexico (CUN)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "SJD",
+          "countryId": "",
+          "airportName": "Los Cabos, Mexico (SJD)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MZT",
+          "countryId": "",
+          "airportName": "Mazatlan, Mexico (MZT)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "PVR",
+          "countryId": "",
+          "airportName": "Puerto Vallarta, Mexico (PVR)",
+          "countryName": "Mexico",
+          "countryCode": "MX",
+          "countryChineaseName": "墨西哥"
+        },
+        {
+          "code": "MLB",
+          "countryId": "",
+          "airportName": "Melbourne, USA (MLB)",
+          "countryName": "USA",
+          "countryCode": "US",
+          "countryChineaseName": "美国"
+        }
+      ]
+    }
+  ]
+}
