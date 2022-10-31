@@ -26,7 +26,7 @@ CONCURRENT_REQUESTS = 32
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 2
+DOWNLOAD_DELAY = 1
 # DOWNLOAD_FAIL_ON_DATALOSS = False  # 重试处理
 # RANDOMIZE_DOWNLOAD_DELAY = True # 开启随机增加毫秒级延迟，增加访问成功率
 

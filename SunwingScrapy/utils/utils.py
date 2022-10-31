@@ -79,13 +79,8 @@ def saveTickets(chooses, savePath):
         return "\n".join(t)
     Fee.formatcb = formatFee
 
-    def formatFee(flightChooseDates, vnames):
-        t = ["费用(%s):%s"%(fee["feeName"], fee["feePrice"]) for i, fee in enumerate(fees)]
-        return "\n".join(t)
-
-    FlightChooseDate.formatcb
-    def formatcb(flights, vnames):
-        str = ""
+    def formatFlight(flights, vnames):
+        t = ""
         for flight in flights:
             flightName = flight["flightName"] ## <Serializable><string>航班名字
             planeName = flight["planeName"] ## <Serializable><string>飞机名字
@@ -100,16 +95,17 @@ def saveTickets(chooses, savePath):
             Fromdate = flight["Fromdate"] ## <Serializable><string>
             Todate = flight["Todate"] ## <Serializable><string>
             Nb_seats_for_ajax0 = flight["Nb_seats_for_ajax0"] ## <Serializable><string>
-            str = str + "Flight:%s\n"%flightName
-            str = str + "From:%s\n"%originCityName
-            str = str + "To:%s\n"%destinationCityName
-            str = str + "选择票价:%s\n"%(chooseTicket["price"])
-            str = str + "%s\n"%Fromdate
-            str = str + "%s\n"%Todate
-            str = str + "Duration:%s\n"%duration
-            str = str + "%s\n"%Nb_seats_for_ajax0
-        return str
-    Flight.formatcb = formatcb
+            t = t + "Flight:%s\n"%flightName
+            t = t + "From:%s\n"%originCityName
+            t = t + "To:%s\n"%destinationCityName
+            t = t + "选择票价:%s\n"%(chooseTicket["price"])
+            t = t + "%s\n"%Fromdate
+            t = t + "%s\n"%Todate
+            t = t + "Duration:%s\n"%duration
+            t = t + "%s\n"%Nb_seats_for_ajax0
+        return t
+    Flight.formatcb = formatFlight
+
     datasMap = flightChooseDate.serializeFormat()
 
     substitude = {
@@ -165,5 +161,5 @@ def saveTickets(chooses, savePath):
 
         for k, v in newDatasMap.items():
             writeColumn(sheet1, i+1, v)
-            
+
     f.save(savePath)

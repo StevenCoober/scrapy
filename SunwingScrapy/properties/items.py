@@ -291,6 +291,8 @@ class Flight(scrapy.Item):
         return {
             'flightName': self["flightName"],
             'planeName': self["planeName"],
+            'originCityName': self["originCityName"],
+            'destinationCityName': self["destinationCityName"],
             'chooseTicket': self["chooseTicket"].serialize(),
             'time_dep': self["time_dep"],
             'time_arr': self["time_arr"],
@@ -324,6 +326,8 @@ class Flight(scrapy.Item):
         _map = {
             Flight.joinstr.join(vnames)+Flight.joinstr+'flightName': str(self["flightName"]),
             Flight.joinstr.join(vnames)+Flight.joinstr+'planeName': str(self["planeName"]),
+            Flight.joinstr.join(vnames)+Flight.joinstr+'originCityName': str(self["originCityName"]),
+            Flight.joinstr.join(vnames)+Flight.joinstr+'destinationCityName': str(self["destinationCityName"]),
             Flight.joinstr.join(vnames)+Flight.joinstr+'time_dep': str(self["time_dep"]),
             Flight.joinstr.join(vnames)+Flight.joinstr+'time_arr': str(self["time_arr"]),
             Flight.joinstr.join(vnames)+Flight.joinstr+'duration': str(self["duration"]),
@@ -374,6 +378,10 @@ class Flight(scrapy.Item):
             self["flightName"] = data['flightName']
         if 'planeName' in data:
             self["planeName"] = data['planeName']
+        if 'originCityName' in data:
+            self["originCityName"] = data['originCityName']
+        if 'destinationCityName' in data:
+            self["destinationCityName"] = data['destinationCityName']
         if 'chooseTicket' in data:
             _ticket = Ticket()
             _ticket.deserialize(data['chooseTicket'])
